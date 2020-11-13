@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<MDFe xmlns="http://www.portalfiscal.inf.br/mdfe"><infMDFe versao="3.00" Id="MDFe35190303806784000138580010000000051000000058"><ide><cUF>35</cUF><tpAmb>2</tpAmb><tpEmit>1</tpEmit><mod>58</mod><serie>1</serie><nMDF>5</nMDF><cMDF>00000005</cMDF><cDV>8</cDV><modal>1</modal><dhEmi>2019-03-07T17:35:52-03:00</dhEmi><tpEmis>1</tpEmis><procEmi>0</procEmi><verProc>1.0.0</verProc><UFIni>SP</UFIni><UFFim>SP</UFFim><infMunCarrega><cMunCarrega>3552205</cMunCarrega><xMunCarrega>Sorocaba</xMunCarrega></infMunCarrega></ide><emit><CNPJ>03806784000138</CNPJ><IE>669373707112</IE><xNome>JORGE KAZUMI GOMI SOROCABA EPP</xNome><xFant>JKG TRANSPORTES</xFant><enderEmit><xLgr>R PEDRO WURSCHIG</xLgr><nro>276</nro><xBairro>RETIRO SAO JOAO</xBairro><cMun>3552205</cMun><xMun>SOROCABA</xMun><CEP>18085745</CEP><UF>SP</UF><fone>1532283981</fone><email>valter.batista@sotisolutions.com</email></enderEmit></emit><infModal versaoModal="3.00"><rodo><infANTT><RNTRC>02287125</RNTRC><infContratante><CNPJ>03806784000138</CNPJ></infContratante></infANTT><veicTracao><cInt>000018</cInt><placa>EJV5050</placa><tara>10020</tara><condutor><xNome>MARCIO HENRIQUE DA SILVA LIMA</xNome><CPF>32109248807</CPF></condutor><tpRod>01</tpRod><tpCar>02</tpCar><UF>SP</UF></veicTracao></rodo></infModal><infDoc><infMunDescarga><cMunDescarga>3552205</cMunDescarga><xMunDescarga>Sorocaba</xMunDescarga><infCTe><chCTe>35170903806784000138570010000120591000120590</chCTe></infCTe></infMunDescarga></infDoc><seg><infResp><respSeg>1</respSeg><CNPJ>03806784000138</CNPJ></infResp><infSeg><xSeg>JORGE KAZUMI GOMI SOROCABA EPP</xSeg><CNPJ>03806784000138</CNPJ></infSeg><nApol>123</nApol><nAver>1234</nAver></seg><tot><qCTe>1</qCTe><vCarga>100.00</vCarga><cUnid>01</cUnid><qCarga>100.0000</qCarga></tot></infMDFe><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI="#MDFe35190303806784000138580010000000051000000058"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>lxAZzQWmNN6wdqpIJyXBSpEZ3e0=</DigestValue></Reference></SignedInfo><SignatureValue>
+    ooRJgnHjBPEdykV0R49FlcCS09r4P8LKCloJ9nW6sfd8SBF5uZLuvrTGguPM8ais7KylbFZz
+    bUsr/U/y5joUg/34reK2TsKAKsF9IVtPkqFYvK1mZji7pjImCy7WMHUy6Rpa0KNLcggrgPZQ
+    0L2szyI/QmJm4aJlu9ZRIuoZkmV0WhrsnIYuPXIFUygZJV2jZj7B4WfninAFr9vI7n7IuvQy
+    PkAgzxGGtMBv6R87ANO6Q3oMAvKBqz5OCsa3WXhXlCc6FF/1dTaUJubXxBtx8FpkMrlbh2Du
+    xBhkABrg/NdwC+vTpLsZ0Qgvyyvt80PER+tuwl9W38iAJnk2Pf71rQ==
+  </SignatureValue><KeyInfo><X509Data><X509Certificate>MIIHuTCCBaGgAwIBAgIQH3+SJaQOOM4+b4GS4lXizTANBgkqhkiG9w0BAQsFADBx
+MQswCQYDVQQGEwJCUjETMBEGA1UEChMKSUNQLUJyYXNpbDE2MDQGA1UECxMtU2Vj
+cmV0YXJpYSBkYSBSZWNlaXRhIEZlZGVyYWwgZG8gQnJhc2lsIC0gUkZCMRUwEwYD
+VQQDEwxBQyBCUiBSRkIgRzQwHhcNMTgwOTE4MTIwNzQ2WhcNMTkwOTE4MTIwNzQ2
+WjCB6jELMAkGA1UEBhMCQlIxEzARBgNVBAoMCklDUC1CcmFzaWwxCzAJBgNVBAgM
+AlNQMREwDwYDVQQHDAhTb3JvY2FiYTE2MDQGA1UECwwtU2VjcmV0YXJpYSBkYSBS
+ZWNlaXRhIEZlZGVyYWwgZG8gQnJhc2lsIC0gUkZCMRYwFAYDVQQLDA1SRkIgZS1D
+TlBKIEExMSIwIAYDVQQLDBlBdXRlbnRpY2FkbyBwb3IgQVIgQ29uZmlhMTIwMAYD
+VQQDDClKT1JHRSBLQVpVTUkgR09NSSBTT1JPQ0FCQTowMzgwNjc4NDAwMDEzODCC
+ASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALgnckhPaBCr7+66a/K/1jy7
+Akc+FYlZTEB46wtMR9K8Dk9dyMoPFvfs370PYOgFpKIFMrTT1fTjxhT0iIvq7ucO
+hn8ilW7RHtXjgQCjoaFXPrbtkLEPsXYTeHFJpn+Yfow9WkrvoulLXMwuFKWl184e
+d2JdIt4mswvibcpAfz0cdLBOsuKkNNbBvc+DIg5XtNWJRY2db7HGeYBZIJGdKCnC
+Avzi3wCJ4ugQAZASXl3xPIdUMUqVpQhX1pVrtqwe6+3tWV5+yq3Os1uAY0+aN1yf
+w2P88cM23SFpO5RY+A2+8Uc3rqVXusp+bhpfLgZo2hd/5SJX++qwiWHP9ZYt1b8C
+AwEAAaOCAtEwggLNMIG5BgNVHREEgbEwga6gPQYFYEwBAwSgNAQyMDUwNzE5NTY3
+NTM1OTY1MDgzNDAwMDAwMDAwMDAwMDAwMDAwMDA5MTA4NjgwU1NQU1CgHAYFYEwB
+AwKgEwQRSk9SR0UgS0FaVU1JIEdPTUmgGQYFYEwBAwOgEAQOMDM4MDY3ODQwMDAx
+MzigFwYFYEwBAwegDgQMMDAwMDAwMDAwMDAwgRtqa2d0cmFuc3BvcnRlc0B0ZXJy
+YS5jb20uYnIwCQYDVR0TBAIwADAfBgNVHSMEGDAWgBR1vyCKBKu00Xnkve8mEaBB
+Ntj0vTBsBgNVHSAEZTBjMGEGBmBMAQIBGzBXMFUGCCsGAQUFBwIBFklodHRwOi8v
+aWNwLWJyYXNpbC5hY2JyLmNvbS5ici9yZXBvc2l0b3Jpby9kcGMvQUNfQlJfUkZC
+L0RQQ19BQ19CUl9SRkIucGRmMIGpBgNVHR8EgaEwgZ4wS6BJoEeGRWh0dHA6Ly9p
+Y3AtYnJhc2lsLmFjYnIub3JnLmJyL3JlcG9zaXRvcmlvL2xjci9BQ0JSUkZCRzQv
+TGF0ZXN0Q1JMLmNybDBPoE2gS4ZJaHR0cDovL2ljcC1icmFzaWwub3V0cmFsY3Iu
+Y29tLmJyL3JlcG9zaXRvcmlvL2xjci9BQ0JSUkZCRzQvTGF0ZXN0Q1JMLmNybDAO
+BgNVHQ8BAf8EBAMCBeAwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMIGZ
+BggrBgEFBQcBAQSBjDCBiTBTBggrBgEFBQcwAoZHaHR0cDovL2ljcC1icmFzaWwu
+YWNici5vcmcuYnIvcmVwb3NpdG9yaW8vY2VydGlmaWNhZG9zL0FDX0JSX1JGQl9H
+NC5wN2MwMgYIKwYBBQUHMAGGJmh0dHA6Ly9vY3NwLWFjLWJyLXJmYi5jZXJ0aXNp
+Z24uY29tLmJyMA0GCSqGSIb3DQEBCwUAA4ICAQAXJNTGtWTGInGTkWbEjnnVHOf4
+a0B1HwnefA7JPOo9ok6MQPfRJaR4ayB79qtSPlYpKuVzpEqQsUq+WITaofgqq4Og
+RxKozDujxa+vbsHQqrWH+LzU5a9dZy3zQXIKlyF/Gu/KLTsZuFMkFnHZtSA5dKtW
+mRKW7aba0zN6AyD2eMbqrMMonemjChbDZOpLltyS14BO6whPKUYadQEg5Bv2RpyY
+EzBgqzQweXEcLod/LBl3lbtCwwAaXOva2bdTLMKDMHhECCV2+19tDf1D5UFSCvzZ
+N1kdk5D1EvCT476mm/bHcRRu2NeDy7jPZeEbLvZM+xkUVvLqUUC0vhWHWEHgTpyG
+9G7pzd3DT7RuKVHYvFPSoXqi84FQvBJPOCZ5Yxqf5I8mnFRPdfUSKx01wjxvCH8w
+0/3+Xiu/7bFugNOTv3h9WnQwJthC+asyClVObQWxqWH19mrt7k+2yy/75f87l04A
+v3WC7VUSCoWmHaJqrFjbz7Lw040GDLPJlSDYA9cH/JPVX/NsINAPYpRuWQXciey2
+uOp7W8BJkupi6TlDd0I081PBWDFlfvlpUHmsogaVAU2/t3ryUYAMqYwBCQi3/Lx9
+GuPJ1XRbc5UYRtfwIaJot2fsG67WOZFDIZ5G4anfxivYLd74aWBykRh8V3EfCifl
+mfuRE5lgKBjFFKwWXw==
+</X509Certificate></X509Data></KeyInfo></Signature></MDFe>

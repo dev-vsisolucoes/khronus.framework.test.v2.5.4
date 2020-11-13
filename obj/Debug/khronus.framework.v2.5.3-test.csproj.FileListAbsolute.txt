@@ -1,0 +1,57 @@
+D:\OneDrive\Projetos\Khronus-Framework\v2.5.3\khronus-framework-test\obj\Debug\khronus.framework.v2.5.3-test.csprojResolveAssemblyReference.cache
+D:\OneDrive\Projetos\Khronus-Framework\v2.5.3\khronus-framework-test\obj\Debug\Interop.MSXML2.dll
+D:\OneDrive\Projetos\Khronus-Framework\v2.5.3\khronus-framework-test\obj\Debug\khronus.framework.v2.5.3-test.csproj.ResolveComReference.cache
+D:\OneDrive\Projetos\Khronus-Framework\v2.5.3\khronus-framework-test\obj\Debug\Khronus.Framework.Test.frmMain.resources
+D:\OneDrive\Projetos\Khronus-Framework\v2.5.3\khronus-framework-test\obj\Debug\Test.frmMain2.resources
+D:\OneDrive\Projetos\Khronus-Framework\v2.5.3\khronus-framework-test\obj\Debug\Test.frmNFe.resources
+D:\OneDrive\Projetos\Khronus-Framework\v2.5.3\khronus-framework-test\obj\Debug\Khronus.Framework.Test.Properties.Resources.resources
+D:\OneDrive\Projetos\Khronus-Framework\v2.5.3\khronus-framework-test\obj\Debug\khronus.framework.v2.5.3-test.csproj.GenerateResource.Cache
+D:\OneDrive\Projetos\Khronus-Framework\v2.5.3\khronus-framework-test\obj\Debug\Khronus.Framework.Test.exe
+D:\OneDrive\Projetos\Khronus-Framework\v2.5.3\khronus-framework-test\obj\Debug\Khronus.Framework.Test.pdb
+D:\OneDrive\Projetos\Khronus-Framework\v2.5.3\khronus-framework-test\bin\Debug\Khronus.Framework.Test.exe.config
+D:\OneDrive\Projetos\Khronus-Framework\v2.5.3\khronus-framework-test\bin\Debug\Khronus.Framework.Test.exe
+D:\OneDrive\Projetos\Khronus-Framework\v2.5.3\khronus-framework-test\bin\Debug\Khronus.Framework.Test.pdb
+D:\OneDrive\Projetos\Khronus-Framework\v2.5.3\khronus-framework-test\bin\Debug\khronus.framework.v2.5.3.dll
+D:\OneDrive\Projetos\Khronus-Framework\v2.5.3\khronus-framework-test\bin\Debug\Interop.MSXML2.dll
+D:\OneDrive\Projetos\Khronus-Framework\v2.5.3\khronus-framework-test\bin\Debug\Interop.CAPICOM.dll
+D:\OneDrive\Projetos\Khronus-Framework\v2.5.3\khronus-framework-test\bin\Debug\MySql.Data.dll
+D:\OneDrive\Projetos\Khronus-Framework\v2.5.3\khronus-framework-test\bin\Debug\khronus.framework.v2.5.3.pdb
+D:\OneDrive\Projetos\Khronus-Framework\v2.5.3\khronus-framework-test\bin\Debug\NReco.PdfGenerator.xml
+D:\OneDrive\Projetos\Khronus-Framework\v2.5.3\khronus-framework-test\bin\Debug\Newtonsoft.Json.dll
+D:\projetos\khronus-framework\v2.5.3\khronus-framework-test\bin\Debug\Khronus.Framework.Test.exe.config
+D:\projetos\khronus-framework\v2.5.3\khronus-framework-test\bin\Debug\Khronus.Framework.Test.exe
+D:\projetos\khronus-framework\v2.5.3\khronus-framework-test\bin\Debug\Khronus.Framework.Test.pdb
+D:\projetos\khronus-framework\v2.5.3\khronus-framework-test\bin\Debug\khronus.framework.v2.5.3.dll
+D:\projetos\khronus-framework\v2.5.3\khronus-framework-test\bin\Debug\Interop.MSXML2.dll
+D:\projetos\khronus-framework\v2.5.3\khronus-framework-test\bin\Debug\Interop.CAPICOM.dll
+D:\projetos\khronus-framework\v2.5.3\khronus-framework-test\bin\Debug\MySql.Data.dll
+D:\projetos\khronus-framework\v2.5.3\khronus-framework-test\bin\Debug\Newtonsoft.Json.dll
+D:\projetos\khronus-framework\v2.5.3\khronus-framework-test\bin\Debug\khronus.framework.v2.5.3.pdb
+D:\projetos\khronus-framework\v2.5.3\khronus-framework-test\bin\Debug\NReco.PdfGenerator.xml
+D:\projetos\khronus-framework\v2.5.3\khronus-framework-test\obj\Debug\khronus.framework.v2.5.3-test.csprojResolveAssemblyReference.cache
+D:\projetos\khronus-framework\v2.5.3\khronus-framework-test\obj\Debug\Interop.MSXML2.dll
+D:\projetos\khronus-framework\v2.5.3\khronus-framework-test\obj\Debug\khronus.framework.v2.5.3-test.csproj.ResolveComReference.cache
+D:\projetos\khronus-framework\v2.5.3\khronus-framework-test\obj\Debug\Khronus.Framework.Test.frmMain.resources
+D:\projetos\khronus-framework\v2.5.3\khronus-framework-test\obj\Debug\Test.frmMain2.resources
+D:\projetos\khronus-framework\v2.5.3\khronus-framework-test\obj\Debug\Test.frmNFe.resources
+D:\projetos\khronus-framework\v2.5.3\khronus-framework-test\obj\Debug\Khronus.Framework.Test.Properties.Resources.resources
+D:\projetos\khronus-framework\v2.5.3\khronus-framework-test\obj\Debug\khronus.framework.v2.5.3-test.csproj.GenerateResource.Cache
+D:\projetos\khronus-framework\v2.5.3\khronus-framework-test\obj\Debug\Khronus.Framework.Test.exe
+D:\projetos\khronus-framework\v2.5.3\khronus-framework-test\obj\Debug\Khronus.Framework.Test.pdb
+C:\Users\Valter\Google Drive\projetos\khronus-framework\v2.5.3\khronus-framework-test\bin\Debug\Khronus.Framework.Test.exe.config
+C:\Users\Valter\Google Drive\projetos\khronus-framework\v2.5.3\khronus-framework-test\obj\Debug\khronus.framework.v2.5.3-test.csproj.ResolveComReference.cache
+C:\Users\Valter\Google Drive\projetos\khronus-framework\v2.5.3\khronus-framework-test\obj\Debug\Khronus.Framework.Test.exe
+C:\Users\Valter\Google Drive\projetos\khronus-framework\v2.5.3\khronus-framework-test\obj\Debug\Khronus.Framework.Test.pdb
+C:\Meus Arquivos\projetos\vsisolucoes\khronus-framework\v2.5.3\khronus-framework-test\bin\Debug\Khronus.Framework.Test.exe.config
+C:\Meus Arquivos\projetos\vsisolucoes\khronus-framework\v2.5.3\khronus-framework-test\obj\Debug\khronus.framework.v2.5.3-test.csproj.ResolveComReference.cache
+C:\Meus Arquivos\projetos\vsisolucoes\khronus-framework\v2.5.3\khronus-framework-test\obj\Debug\Khronus.Framework.Test.exe
+C:\Meus Arquivos\projetos\vsisolucoes\khronus-framework\v2.5.3\khronus-framework-test\obj\Debug\Khronus.Framework.Test.pdb
+D:\meus arquivos\projetos\vsisolucoes\khronus-framework\v2.5.3\khronus-framework-test\obj\Debug\khronus.framework.v2.5.3-test.csprojAssemblyReference.cache
+D:\meus arquivos\projetos\vsisolucoes\khronus-framework\v2.5.3\khronus-framework-test\obj\Debug\Khronus.Framework.Test.frmMain.resources
+D:\meus arquivos\projetos\vsisolucoes\khronus-framework\v2.5.3\khronus-framework-test\obj\Debug\Test.frmMain2.resources
+D:\meus arquivos\projetos\vsisolucoes\khronus-framework\v2.5.3\khronus-framework-test\obj\Debug\Test.frmNFe.resources
+D:\meus arquivos\projetos\vsisolucoes\khronus-framework\v2.5.3\khronus-framework-test\obj\Debug\Khronus.Framework.Test.Properties.Resources.resources
+D:\meus arquivos\projetos\vsisolucoes\khronus-framework\v2.5.3\khronus-framework-test\obj\Debug\khronus.framework.v2.5.3-test.csproj.GenerateResource.cache
+D:\meus arquivos\projetos\vsisolucoes\khronus-framework\v2.5.3\khronus-framework-test\obj\Debug\khronus.framework.v2.5.3-test.csproj.CoreCompileInputs.cache
+D:\meus arquivos\projetos\vsisolucoes\khronus-framework\v2.5.3\khronus-framework-test\obj\Debug\Khronus.Framework.Test.exe
+D:\meus arquivos\projetos\vsisolucoes\khronus-framework\v2.5.3\khronus-framework-test\obj\Debug\Khronus.Framework.Test.pdb

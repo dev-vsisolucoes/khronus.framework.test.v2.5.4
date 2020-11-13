@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<CTe xmlns="http://www.portalfiscal.inf.br/cte"><infCte Id="CTe35190311141236000164570010000000111000000115" versao="3.00"><ide><cUF>35</cUF><cCT>00000011</cCT><CFOP>5352</CFOP><natOp>VENDA</natOp><mod>57</mod><serie>1</serie><nCT>11</nCT><dhEmi>2019-03-03T10:33:40-03:00</dhEmi><tpImp>1</tpImp><tpEmis>1</tpEmis><cDV>5</cDV><tpAmb>2</tpAmb><tpCTe>0</tpCTe><procEmi>0</procEmi><verProc>1.0.0</verProc><cMunEnv>3552205</cMunEnv><xMunEnv>Sorocaba</xMunEnv><UFEnv>SP</UFEnv><modal>01</modal><tpServ>0</tpServ><cMunIni>3552205</cMunIni><xMunIni>Sorocaba</xMunIni><UFIni>SP</UFIni><cMunFim>3552205</cMunFim><xMunFim>Sorocaba</xMunFim><UFFim>SP</UFFim><retira>1</retira><indIEToma>9</indIEToma><toma3><toma>3</toma></toma3></ide><compl><xObs>Teste</xObs></compl><emit><CNPJ>11141236000164</CNPJ><IE>669965038116</IE><xNome>VDK TRANSPORTES LTDA ME</xNome><xFant>VDK TRANSPORTES</xFant><enderEmit><xLgr>ANTONIO DE NAPOLI</xLgr><nro>504</nro><xBairro>PARADA TAIPAS</xBairro><cMun>3552205</cMun><xMun>SAO PAULO</xMun><CEP>02987030</CEP><UF>SP</UF><fone>1139284522</fone></enderEmit></emit><rem><CNPJ>99999999000191</CNPJ><xNome>CT-E EMITIDO EM AMBIENTE DE HOMOLOGACAO - SEM VALOR FISCAL</xNome><enderReme><xLgr>RUA SEVERO PEREIRA</xLgr><nro>35</nro><xBairro>WANNEL VILLE</xBairro><cMun>3552205</cMun><xMun>SOROCABA</xMun><CEP>18053540</CEP><UF>SP</UF><cPais>1058</cPais><xPais>BRASIL</xPais></enderReme></rem><dest><CNPJ>99999999000191</CNPJ><xNome>CT-E EMITIDO EM AMBIENTE DE HOMOLOGACAO - SEM VALOR FISCAL</xNome><enderDest><xLgr>RUA SEVERO PEREIRA</xLgr><nro>35</nro><xBairro>WANNEL VILLE</xBairro><cMun>3552205</cMun><xMun>SOROCABA</xMun><CEP>18053540</CEP><UF>SP</UF><cPais>1058</cPais><xPais>BRASIL</xPais></enderDest></dest><vPrest><vTPrest>50.13</vTPrest><vRec>50.13</vRec><Comp><xNome>IMPOSTO CLIENTE</xNome><vComp>3.51</vComp></Comp></vPrest><imp><ICMS><ICMSSN><CST>90</CST><indSN>1</indSN></ICMSSN></ICMS></imp><infCTeNorm><infCarga><vCarga>0.00</vCarga><proPred>DIVERSOS</proPred><xOutCat>GRANEL</xOutCat><infQ><cUnid>01</cUnid><tpMed>PESO BRUTO</tpMed><qCarga>1.0000</qCarga></infQ></infCarga><infDoc><infNF><mod>01</mod><serie>U</serie><nDoc>13387</nDoc><dEmi>2019-03-03</dEmi><vBC>0.00</vBC><vICMS>0.00</vICMS><vBCST>0.00</vBCST><vST>0.00</vST><vProd>0.00</vProd><vNF>0.00</vNF><nCFOP>6353</nCFOP></infNF></infDoc><infModal versaoModal="3.00"><rodo><RNTRC>00000000</RNTRC></rodo></infModal></infCTeNorm></infCte><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI="#CTe35190311141236000164570010000000111000000115"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>ji0nRZ29FHyAY5szp8BELm1NTgM=</DigestValue></Reference></SignedInfo><SignatureValue>
+    PS0VIPgFdLr5gdDVJm2t4kX8WfjnoIcIx+V5CfmWR0xZVqnSK1zGU/HBkVdJH0MDG9tW+QJG
+    MNXnQrCtFdgWP91wGlTbdE0r8JM1y8MjKVJTlaXsHd0mcxhZEtJatE/1y0O1zhs/vwmr0AXL
+    jMW67+XQAEiQrjFR1UNmo15hP87lzDxc0xhjyqs5BIxQyHuBmjmcsUN4bDJ+KOIuJhTjpLYp
+    ruyvVoTuG2PByCRA058O3TqalU8ORn8jlMqbNf8v8PhJ+udDRDnhyOEKOdjT4MX++vlJ1MMF
+    gwrZM1ITfzyuBIUa7UHriuxjrdOuULXUQx/sA6W6JFicrKHW3WhgiA==
+  </SignatureValue><KeyInfo><X509Data><X509Certificate>MIIHuTCCBaGgAwIBAgIQH3+SJaQOOM4+b4GS4lXizTANBgkqhkiG9w0BAQsFADBx
+MQswCQYDVQQGEwJCUjETMBEGA1UEChMKSUNQLUJyYXNpbDE2MDQGA1UECxMtU2Vj
+cmV0YXJpYSBkYSBSZWNlaXRhIEZlZGVyYWwgZG8gQnJhc2lsIC0gUkZCMRUwEwYD
+VQQDEwxBQyBCUiBSRkIgRzQwHhcNMTgwOTE4MTIwNzQ2WhcNMTkwOTE4MTIwNzQ2
+WjCB6jELMAkGA1UEBhMCQlIxEzARBgNVBAoMCklDUC1CcmFzaWwxCzAJBgNVBAgM
+AlNQMREwDwYDVQQHDAhTb3JvY2FiYTE2MDQGA1UECwwtU2VjcmV0YXJpYSBkYSBS
+ZWNlaXRhIEZlZGVyYWwgZG8gQnJhc2lsIC0gUkZCMRYwFAYDVQQLDA1SRkIgZS1D
+TlBKIEExMSIwIAYDVQQLDBlBdXRlbnRpY2FkbyBwb3IgQVIgQ29uZmlhMTIwMAYD
+VQQDDClKT1JHRSBLQVpVTUkgR09NSSBTT1JPQ0FCQTowMzgwNjc4NDAwMDEzODCC
+ASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALgnckhPaBCr7+66a/K/1jy7
+Akc+FYlZTEB46wtMR9K8Dk9dyMoPFvfs370PYOgFpKIFMrTT1fTjxhT0iIvq7ucO
+hn8ilW7RHtXjgQCjoaFXPrbtkLEPsXYTeHFJpn+Yfow9WkrvoulLXMwuFKWl184e
+d2JdIt4mswvibcpAfz0cdLBOsuKkNNbBvc+DIg5XtNWJRY2db7HGeYBZIJGdKCnC
+Avzi3wCJ4ugQAZASXl3xPIdUMUqVpQhX1pVrtqwe6+3tWV5+yq3Os1uAY0+aN1yf
+w2P88cM23SFpO5RY+A2+8Uc3rqVXusp+bhpfLgZo2hd/5SJX++qwiWHP9ZYt1b8C
+AwEAAaOCAtEwggLNMIG5BgNVHREEgbEwga6gPQYFYEwBAwSgNAQyMDUwNzE5NTY3
+NTM1OTY1MDgzNDAwMDAwMDAwMDAwMDAwMDAwMDA5MTA4NjgwU1NQU1CgHAYFYEwB
+AwKgEwQRSk9SR0UgS0FaVU1JIEdPTUmgGQYFYEwBAwOgEAQOMDM4MDY3ODQwMDAx
+MzigFwYFYEwBAwegDgQMMDAwMDAwMDAwMDAwgRtqa2d0cmFuc3BvcnRlc0B0ZXJy
+YS5jb20uYnIwCQYDVR0TBAIwADAfBgNVHSMEGDAWgBR1vyCKBKu00Xnkve8mEaBB
+Ntj0vTBsBgNVHSAEZTBjMGEGBmBMAQIBGzBXMFUGCCsGAQUFBwIBFklodHRwOi8v
+aWNwLWJyYXNpbC5hY2JyLmNvbS5ici9yZXBvc2l0b3Jpby9kcGMvQUNfQlJfUkZC
+L0RQQ19BQ19CUl9SRkIucGRmMIGpBgNVHR8EgaEwgZ4wS6BJoEeGRWh0dHA6Ly9p
+Y3AtYnJhc2lsLmFjYnIub3JnLmJyL3JlcG9zaXRvcmlvL2xjci9BQ0JSUkZCRzQv
+TGF0ZXN0Q1JMLmNybDBPoE2gS4ZJaHR0cDovL2ljcC1icmFzaWwub3V0cmFsY3Iu
+Y29tLmJyL3JlcG9zaXRvcmlvL2xjci9BQ0JSUkZCRzQvTGF0ZXN0Q1JMLmNybDAO
+BgNVHQ8BAf8EBAMCBeAwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMIGZ
+BggrBgEFBQcBAQSBjDCBiTBTBggrBgEFBQcwAoZHaHR0cDovL2ljcC1icmFzaWwu
+YWNici5vcmcuYnIvcmVwb3NpdG9yaW8vY2VydGlmaWNhZG9zL0FDX0JSX1JGQl9H
+NC5wN2MwMgYIKwYBBQUHMAGGJmh0dHA6Ly9vY3NwLWFjLWJyLXJmYi5jZXJ0aXNp
+Z24uY29tLmJyMA0GCSqGSIb3DQEBCwUAA4ICAQAXJNTGtWTGInGTkWbEjnnVHOf4
+a0B1HwnefA7JPOo9ok6MQPfRJaR4ayB79qtSPlYpKuVzpEqQsUq+WITaofgqq4Og
+RxKozDujxa+vbsHQqrWH+LzU5a9dZy3zQXIKlyF/Gu/KLTsZuFMkFnHZtSA5dKtW
+mRKW7aba0zN6AyD2eMbqrMMonemjChbDZOpLltyS14BO6whPKUYadQEg5Bv2RpyY
+EzBgqzQweXEcLod/LBl3lbtCwwAaXOva2bdTLMKDMHhECCV2+19tDf1D5UFSCvzZ
+N1kdk5D1EvCT476mm/bHcRRu2NeDy7jPZeEbLvZM+xkUVvLqUUC0vhWHWEHgTpyG
+9G7pzd3DT7RuKVHYvFPSoXqi84FQvBJPOCZ5Yxqf5I8mnFRPdfUSKx01wjxvCH8w
+0/3+Xiu/7bFugNOTv3h9WnQwJthC+asyClVObQWxqWH19mrt7k+2yy/75f87l04A
+v3WC7VUSCoWmHaJqrFjbz7Lw040GDLPJlSDYA9cH/JPVX/NsINAPYpRuWQXciey2
+uOp7W8BJkupi6TlDd0I081PBWDFlfvlpUHmsogaVAU2/t3ryUYAMqYwBCQi3/Lx9
+GuPJ1XRbc5UYRtfwIaJot2fsG67WOZFDIZ5G4anfxivYLd74aWBykRh8V3EfCifl
+mfuRE5lgKBjFFKwWXw==
+</X509Certificate></X509Data></KeyInfo></Signature></CTe>

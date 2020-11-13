@@ -1,0 +1,13 @@
+D:\Meus Arquivos\SotiSolutions\Projetos\Khronus.Framework\Versao 2.0\Khronus.Framework\Test\bin\Debug\Khronus.Framework.dll
+D:\Meus Arquivos\SotiSolutions\Projetos\Khronus.Framework\Versao 2.0\Khronus.Framework\Test\bin\Debug\BarcodeLib.dll
+D:\Meus Arquivos\SotiSolutions\Projetos\Khronus.Framework\Versao 2.0\Khronus.Framework\Test\bin\Debug\Khronus.Framework.pdb
+D:\Meus Arquivos\SotiSolutions\Projetos\Khronus.Framework\Versao 2.0\Khronus.Framework\Test\obj\x86\Debug\DFeManager.csprojResolveAssemblyReference.cache
+D:\Meus Arquivos\SotiSolutions\Projetos\Khronus.Framework\Versao 2.0\Khronus.Framework\Test\obj\x86\Debug\Test.Form1.resources
+D:\Meus Arquivos\SotiSolutions\Projetos\Khronus.Framework\Versao 2.0\Khronus.Framework\Test\obj\x86\Debug\DFeManager.csproj.GenerateResource.Cache
+D:\Meus Arquivos\SotiSolutions\Projetos\Khronus.Framework\Versao 2.0\Khronus.Framework\Test\bin\Debug\DFeManager.exe.config
+D:\Meus Arquivos\SotiSolutions\Projetos\Khronus.Framework\Versao 2.0\Khronus.Framework\Test\bin\Debug\DFeManager.exe
+D:\Meus Arquivos\SotiSolutions\Projetos\Khronus.Framework\Versao 2.0\Khronus.Framework\Test\bin\Debug\DFeManager.pdb
+D:\Meus Arquivos\SotiSolutions\Projetos\Khronus.Framework\Versao 2.0\Khronus.Framework\Test\obj\x86\Debug\DFeManager.Properties.Resources.resources
+D:\Meus Arquivos\SotiSolutions\Projetos\Khronus.Framework\Versao 2.0\Khronus.Framework\Test\obj\x86\Debug\DFeManager.exe
+D:\Meus Arquivos\SotiSolutions\Projetos\Khronus.Framework\Versao 2.0\Khronus.Framework\Test\obj\x86\Debug\DFeManager.pdb
+D:\Meus Arquivos\SotiSolutions\Projetos\Khronus.Framework\Versao 2.0\Khronus.Framework\Test\bin\Debug\Test.exe.config

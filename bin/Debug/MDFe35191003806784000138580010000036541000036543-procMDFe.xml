@@ -1,0 +1,50 @@
+<mdfeProc xmlns="http://www.portalfiscal.inf.br/mdfe" versao="3.00"><MDFe xmlns="http://www.portalfiscal.inf.br/mdfe"><infMDFe versao="3.00" Id="MDFe35191003806784000138580010000036541000036543"><ide><cUF>35</cUF><tpAmb>1</tpAmb><tpEmit>1</tpEmit><mod>58</mod><serie>1</serie><nMDF>3654</nMDF><cMDF>00003654</cMDF><cDV>3</cDV><modal>1</modal><dhEmi>2019-10-07T17:14:03-03:00</dhEmi><tpEmis>1</tpEmis><procEmi>0</procEmi><verProc>1.0.0</verProc><UFIni>SP</UFIni><UFFim>SP</UFFim><infMunCarrega><cMunCarrega>3501608</cMunCarrega><xMunCarrega>AMERICANA</xMunCarrega></infMunCarrega><infMunCarrega><cMunCarrega>3545803</cMunCarrega><xMunCarrega>SANTA BÁRBARA D'OESTE</xMunCarrega></infMunCarrega><infMunCarrega><cMunCarrega>3552403</cMunCarrega><xMunCarrega>SUMARÉ</xMunCarrega></infMunCarrega></ide><emit><CNPJ>03806784000138</CNPJ><IE>669373707112</IE><xNome>JORGE KAZUMI GOMI SOROCABA  EPP</xNome><xFant>JKG TRANSPORTES</xFant><enderEmit><xLgr>R PEDRO WURSCHIG</xLgr><nro>276</nro><xBairro>RETIRO SÃO JOÃO</xBairro><cMun>3552205</cMun><xMun>SOROCABA</xMun><CEP>18085745</CEP><UF>SP</UF><fone>1532283981</fone></enderEmit></emit><infModal versaoModal="3.00"><rodo><infANTT><RNTRC>02287125</RNTRC><infContratante><CNPJ>43651066000154</CNPJ></infContratante></infANTT><veicTracao><cInt>000018</cInt><placa>EJV5050</placa><tara>10020</tara><condutor><xNome>MARCIO HENRIQUE DA SILVA LIMA</xNome><CPF>32109248807</CPF></condutor><tpRod>01</tpRod><tpCar>02</tpCar><UF>SP</UF></veicTracao></rodo></infModal><infDoc><infMunDescarga><cMunDescarga>3552205</cMunDescarga><xMunDescarga>SOROCABA</xMunDescarga><infCTe><chCTe>35191003806784000138570010000193941000193947</chCTe></infCTe><infCTe><chCTe>35191003806784000138570010000193951000193952</chCTe></infCTe><infCTe><chCTe>35191003806784000138570010000193961000193968</chCTe></infCTe><infCTe><chCTe>35191003806784000138570010000193971000193973</chCTe></infCTe><infCTe><chCTe>35191003806784000138570010000193981000193989</chCTe></infCTe></infMunDescarga></infDoc><seg><infResp><respSeg>2</respSeg><CNPJ>43651066000154</CNPJ></infResp><infSeg><xSeg>PORTO SEGURO</xSeg><CNPJ>61198164000160</CNPJ></infSeg><nApol>666217033</nApol><nAver>123</nAver></seg><tot><qCTe>5</qCTe><vCarga>66124.90</vCarga><cUnid>01</cUnid><qCarga>2681.7130</qCarga></tot></infMDFe><infMDFeSupl><qrCodMDFe>https://dfe-portal.svrs.rs.gov.br/mdfe/qrCode?chMDFe=35191003806784000138580010000036541000036543&amp;tpAmb=1</qrCodMDFe></infMDFeSupl><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI="#MDFe35191003806784000138580010000036541000036543"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>Gyr3QnLwD305kDXX0bmnwQQCK/E=</DigestValue></Reference></SignedInfo><SignatureValue>
+    v1s2RgnizVFnYkbwEvrspyJMzDLunClMjADctftuAX1n+cEamDqCoAOqxoENbZxv8dlqGug0
+    U7n/stvlsrumobPczIvx2X/vKXAqT9cvSD7dDI9RiNSv55FACOxVisoLuAmq8fl2vnkcevt2
+    GLd/3uKyy1VpHW+nbVH41DLmSdhzDmmtdL+RXD49gUqebsuda9FBmDFTzSxbQc8oueGwweTx
+    Mex6qyZTDZlhptvLC0jsZ0VduNxSy7T1V19CA9AzqYxBKDZrWyR+gwlu1NohVT9Nr14TQXsx
+    a6n5KnlGBUZZ05NaBKwGuW7aHJUPmSlyVhl+bDKKqMlwyhun5/AdRA==
+  </SignatureValue><KeyInfo><X509Data><X509Certificate>MIIHrjCCBZagAwIBAgIQIgi64jlJncY14ljfb/E1djANBgkqhkiG9w0BAQsFADBx
+MQswCQYDVQQGEwJCUjETMBEGA1UEChMKSUNQLUJyYXNpbDE2MDQGA1UECxMtU2Vj
+cmV0YXJpYSBkYSBSZWNlaXRhIEZlZGVyYWwgZG8gQnJhc2lsIC0gUkZCMRUwEwYD
+VQQDEwxBQyBCUiBSRkIgRzQwHhcNMTkwOTE3MTIzMDI1WhcNMjAwOTE2MTIzMDI1
+WjCB3zELMAkGA1UEBhMCQlIxEzARBgNVBAoMCklDUC1CcmFzaWwxCzAJBgNVBAgM
+AlNQMREwDwYDVQQHDAhTb3JvY2FiYTE2MDQGA1UECwwtU2VjcmV0YXJpYSBkYSBS
+ZWNlaXRhIEZlZGVyYWwgZG8gQnJhc2lsIC0gUkZCMRYwFAYDVQQLDA1SRkIgZS1D
+TlBKIEExMRcwFQYDVQQLDA4wOTEyNTg0MjAwMDE0NDEyMDAGA1UEAwwpSk9SR0Ug
+S0FaVU1JIEdPTUkgU09ST0NBQkE6MDM4MDY3ODQwMDAxMzgwggEiMA0GCSqGSIb3
+DQEBAQUAA4IBDwAwggEKAoIBAQDKbed3iiqKibu2OAWjTIJEYS7xjUOCuzgqdOvo
+UOnWDmAqDpuyMKceA90PTDuf7mecqjJXQVElLvm1o168jykkTJvbBkN7zL4LBzGY
+i4s/xe621vwo6HJxWBLlJICpYpfgdcVOG4D7ln2baL2Gbs7vH5TnEEdTzTWoht9O
+bBkTo59qPth1+t6mF/X9bkoLdo7F3yLhIeAX8rdWkgzu91Qe0JuiSnfKe89+cLUs
+IO7SYrtDcmqEU669RSUsSH1pnuKFTA3CHztNpXt0nzC88PcCRl+PAAVUZj903CTa
+Knf8Z5S195x8W6RzIKwyR/21NBRrRHohX4fv53SyARsv3g/jAgMBAAGjggLRMIIC
+zTCBuQYDVR0RBIGxMIGuoD0GBWBMAQMEoDQEMjA1MDcxOTU2NzUzNTk2NTA4MzQw
+MDAwMDAwMDAwMDAwMDAwMDAwOTEwODY4MFNTUFNQoBwGBWBMAQMCoBMEEUpPUkdF
+IEtBWlVNSSBHT01JoBkGBWBMAQMDoBAEDjAzODA2Nzg0MDAwMTM4oBcGBWBMAQMH
+oA4EDDAwMDAwMDAwMDAwMIEbamtndHJhbnNwb3J0ZXNAdGVycmEuY29tLmJyMAkG
+A1UdEwQCMAAwHwYDVR0jBBgwFoAUdb8gigSrtNF55L3vJhGgQTbY9L0wbAYDVR0g
+BGUwYzBhBgZgTAECARswVzBVBggrBgEFBQcCARZJaHR0cDovL2ljcC1icmFzaWwu
+YWNici5jb20uYnIvcmVwb3NpdG9yaW8vZHBjL0FDX0JSX1JGQi9EUENfQUNfQlJf
+UkZCLnBkZjCBqQYDVR0fBIGhMIGeMEugSaBHhkVodHRwOi8vaWNwLWJyYXNpbC5h
+Y2JyLm9yZy5ici9yZXBvc2l0b3Jpby9sY3IvQUNCUlJGQkc0L0xhdGVzdENSTC5j
+cmwwT6BNoEuGSWh0dHA6Ly9pY3AtYnJhc2lsLm91dHJhbGNyLmNvbS5ici9yZXBv
+c2l0b3Jpby9sY3IvQUNCUlJGQkc0L0xhdGVzdENSTC5jcmwwDgYDVR0PAQH/BAQD
+AgXgMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDCBmQYIKwYBBQUHAQEE
+gYwwgYkwUwYIKwYBBQUHMAKGR2h0dHA6Ly9pY3AtYnJhc2lsLmFjYnIub3JnLmJy
+L3JlcG9zaXRvcmlvL2NlcnRpZmljYWRvcy9BQ19CUl9SRkJfRzQucDdjMDIGCCsG
+AQUFBzABhiZodHRwOi8vb2NzcC1hYy1ici1yZmIuY2VydGlzaWduLmNvbS5icjAN
+BgkqhkiG9w0BAQsFAAOCAgEAuE5i1QKWFqXndtpXLh8VM/Gqx9iieSbBp7CEnEKE
+KT1A7GCyZDYIY6g8RpDq9LQ06UsJP7yes9uTXjR5iuAo+Vbkg7AXHzl2CUQJMvgG
+B/YshmLnZauVS6ajZzWP2pqfCHIwSWzchuV6anCNWuJr2rhHGNjEpd+5YsdpzXEb
+HrKDPZVRpDiiuMnqqOEsoMuwIIcSPEsyZwqAlz54Ss27R4tgIAVtj0Kv0+lX5QSo
+Iyqcdsrivj00PrpCb6qE+xYa9Hed7DSZwQV1UHyLhsEqkonKYDWPjbLqmhKJEchH
+XToHClTre7Q/8VVFWYgXRHRYYT2nqQDVkQ3rVNY8jrKCVVFaK9xH83yThBVmYqRS
+u2Qj6XhWph8Xr9GOJ+cRnl5hUYs/CfAuBDkn58C6UMkylnGkmodP/Zo3huxDgjQT
+yF0QC2V/KsnWBwk/F7vG2oNpCZXKMcw1BlRn3H+PFvE1TDigAUPjihlK8+T26nrg
+X44p9C/3CdP0/SKcGpTW8jLGF9jVXyKUx6JtH7YhuxQKMwxzsID1+hbNwvlQifcW
+uNe1qGymrlOt6X+GRCJxdUGaoFj2Aijb5qCmhlrmwAT3S16vzuMggIAY/+5yA3FJ
+6bVr8j42CGjSTzmZFNfnoWDFPPVm6MHjXV2n5Ae4E3IqDXx5XJ7/5Vt4VOWqxfSK
+pdw=
+</X509Certificate></X509Data></KeyInfo></Signature></MDFe>
+	<protMDFe versao="3.00"><infProt><tpAmb>1</tpAmb><verAplic>RS20191007085444</verAplic><chMDFe>35191003806784000138580010000036541000036543</chMDFe><dhRecbto>2019-10-07T17:14:10-03:00</dhRecbto><nProt>935190027554396</nProt><digVal>Gyr3QnLwD305kDXX0bmnwQQCK/E=</digVal><cStat>100</cStat><xMotivo>Autorizado o uso do MDF-e</xMotivo></infProt></protMDFe></mdfeProc>

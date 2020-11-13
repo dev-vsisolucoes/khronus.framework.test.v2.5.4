@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CFe>
+    <infCFe Id="CFe35190110189821000171590005985290000815792963" versao="0.07" versaoDadosEnt="0.07" versaoSB="010103">
+        <ide>
+            <cUF>35</cUF>
+            <cNF>579296</cNF>
+            <mod>59</mod>
+            <nserieSAT>000598529</nserieSAT>
+            <nCFe>000081</nCFe>
+            <dEmi>20190103</dEmi>
+            <hEmi>104633</hEmi>
+            <cDV>3</cDV>
+            <tpAmb>1</tpAmb>
+            <CNPJ>13456988000140</CNPJ>
+            <signAC>cryEYa7XxGkjf4RNDyakC6DRTD2qILf8W+P+uiNI5gEoBFbfA3TljNnEhoIcBosMt7VupsENNx8g6fsCot2LcOgaxl+eC21ZvjlnaahErtY4urLKRUD+zrUMlAaHooZC2vklCKfNh1alSTwdqEc07fKMHImNC30BnKY894XBUlX2qQYl/bB7Jp6a7TKHgZxPjGqDlQ2hrd5u5SK9RqFg+kjxWZy7qKJ3ooxncW+633ThN0QbgwrXiS1O6xUxru4aGH139wgTEaXLHRgagmp/wuGHCicxw/GVv6QmmUB4GG5rR5ANm4obTRf/j2127lwjE9/i5Epnrk4ssFzMooWHNQ==</signAC>
+            <assinaturaQRCODE>tDY6LiUe40J/jIeyXoIjUCVZtNs2GVum2oZFTcPprCdLuIhLxeKX3nY10+Oq6cjMMcTQff8JuLKm0GTabd936sGwQDMm763bl/uMPLXU8wJH40OJxW5uyiTi95rnLIWJ96TRJ7bb1AOAaoxdGWo9DHECjRIyabl7qfQA0c95STHA/wWlq2J0IdMgJe+HyeaM46B+TTfVQzyR2sjAMRnuH58YOD3QZO2wdBoWgT5FrQD1vnzOqTzicQvIcVzaMJZYJZpFADePWR5BE8oJWanOs/ypNXq9F8arcInKHX/SqwdfyKJOwkmRqYf1GnTXla255cDJfOeTnPh0TvTl20UzzA==</assinaturaQRCODE>
+            <numeroCaixa>001</numeroCaixa>
+        </ide>
+        <emit>
+            <CNPJ>10189821000171</CNPJ>
+            <xNome>FRANCISCO ASSIS PEREIRA CONSTRUCAO ME</xNome>
+            <xFant>CONSTRUIR A LOJA DA SUA CONSTRUCAO</xFant>
+            <enderEmit>
+                <xLgr>RUA DR AGRARIO ANTUNES</xLgr>
+                <nro>145</nro>
+                <xCpl>Nao Informado</xCpl>
+                <xBairro>JARDIM BOM SUCESSO</xBairro>
+                <xMun>SOROCABA</xMun>
+                <CEP>18078721</CEP>
+            </enderEmit>
+            <IE>669615180114</IE>
+            <cRegTrib>1</cRegTrib>
+            <cRegTribISSQN>3</cRegTribISSQN>
+            <indRatISSQN>N</indRatISSQN>
+        </emit>
+        <dest />
+        <det nItem="1">
+            <prod>
+                <cProd>000146</cProd>
+                <xProd>LUVA 100 ESG KRONA</xProd>
+                <NCM>39174090</NCM>
+                <CFOP>5102</CFOP>
+                <uCom>UN  </uCom>
+                <qCom>1.0000</qCom>
+                <vUnCom>4.880</vUnCom>
+                <vProd>4.88</vProd>
+                <indRegra>A</indRegra>
+                <vDesc>0.00</vDesc>
+                <vOutro>0.00</vOutro>
+                <vItem>4.88</vItem>
+            </prod>
+            <imposto>
+                <vItem12741>0.00</vItem12741>
+                <ICMS>
+                    <ICMSSN102>
+                        <Orig>0</Orig>
+                        <CSOSN>102</CSOSN>
+                    </ICMSSN102>
+                </ICMS>
+                <PIS>
+                    <PISSN>
+                        <CST>49</CST>
+                    </PISSN>
+                </PIS>
+                <COFINS>
+                    <COFINSSN>
+                        <CST>49</CST>
+                    </COFINSSN>
+                </COFINS>
+            </imposto>
+        </det>
+        <det nItem="2">
+            <prod>
+                <cProd>000139</cProd>
+                <xProd>TEE 100X100 ESG KRONA</xProd>
+                <NCM>39174090</NCM>
+                <CFOP>5102</CFOP>
+                <uCom>UN  </uCom>
+                <qCom>1.0000</qCom>
+                <vUnCom>10.760</vUnCom>
+                <vProd>10.76</vProd>
+                <indRegra>A</indRegra>
+                <vDesc>0.00</vDesc>
+                <vOutro>0.00</vOutro>
+                <vItem>10.76</vItem>
+            </prod>
+            <imposto>
+                <vItem12741>0.00</vItem12741>
+                <ICMS>
+                    <ICMSSN102>
+                        <Orig>0</Orig>
+                        <CSOSN>102</CSOSN>
+                    </ICMSSN102>
+                </ICMS>
+                <PIS>
+                    <PISSN>
+                        <CST>49</CST>
+                    </PISSN>
+                </PIS>
+                <COFINS>
+                    <COFINSSN>
+                        <CST>49</CST>
+                    </COFINSSN>
+                </COFINS>
+            </imposto>
+        </det>
+        <det nItem="3">
+            <prod>
+                <cProd>000133</cProd>
+                <xProd>JOELHO 45� 100 ESG KRONA</xProd>
+                <NCM>39174090</NCM>
+                <CFOP>5102</CFOP>
+                <uCom>UN  </uCom>
+                <qCom>2.0000</qCom>
+                <vUnCom>6.480</vUnCom>
+                <vProd>12.96</vProd>
+                <indRegra>A</indRegra>
+                <vDesc>0.00</vDesc>
+                <vOutro>0.00</vOutro>
+                <vItem>12.96</vItem>
+            </prod>
+            <imposto>
+                <vItem12741>0.00</vItem12741>
+                <ICMS>
+                    <ICMSSN102>
+                        <Orig>0</Orig>
+                        <CSOSN>102</CSOSN>
+                    </ICMSSN102>
+                </ICMS>
+                <PIS>
+                    <PISSN>
+                        <CST>49</CST>
+                    </PISSN>
+                </PIS>
+                <COFINS>
+                    <COFINSSN>
+                        <CST>49</CST>
+                    </COFINSSN>
+                </COFINS>
+            </imposto>
+        </det>
+        <total>
+            <ICMSTot>
+                <vICMS>0.00</vICMS>
+                <vProd>28.60</vProd>
+                <vDesc>0.00</vDesc>
+                <vPIS>0.00</vPIS>
+                <vCOFINS>0.00</vCOFINS>
+                <vPISST>0.00</vPISST>
+                <vCOFINSST>0.00</vCOFINSST>
+                <vOutro>0.00</vOutro>
+            </ICMSTot>
+            <vCFe>28.60</vCFe>
+            <vCFeLei12741>0.00</vCFeLei12741>
+        </total>
+        <pgto>
+            <MP>
+                <cMP>99</cMP>
+                <vMP>28.60</vMP>
+            </MP>
+            <vTroco>0.00</vTroco>
+        </pgto>
+        <infAdic>
+            <obsFisco xCampo="04.04.05.04">
+                <xTexto>Comete crime quem sonega</xTexto>
+            </obsFisco>
+        </infAdic>
+    </infCFe>
+    <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+        <SignedInfo>
+            <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+            <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256" />
+            <Reference URI="#CFe35190110189821000171590005985290000815792963">
+                <Transforms>
+                    <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+                    <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+                </Transforms>
+                <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+                <DigestValue>X7qo5GzcE+UgzluUWfGkX+hhRFtsoku0YIKasK1XFgE=</DigestValue>
+            </Reference>
+        </SignedInfo>
+        <SignatureValue>km5b//RgcxZn26D6KyAmTd2veprOFHdtupl+wCOkEEAQKYWd//+rxiUIfE/IU3aO38DaO1SijKXfEVVkaq+gDKInbrU9oD+L9fg03GH5P9szSFVKufW+fb2vnD64epxEzbpb3GU/lDV54yHZjqhOb/MyEBmndAL2bA3FyGvQo01ooQIGOTQiEBiwbKGj1k4s8pIt+tcg9u9Z1/yMorowOxiiHoAqJXlt+XPnJGlTSYkdqxcmt3hcCsR3KhGPcUGflnd5lV1JddTJnNxNhHJGxFSv/SaQe39szhYxYgRlfOgz7aY1gjymoty4bR32VZ+zc35FElrbajAlXXHW1cUqvg==</SignatureValue>
+        <KeyInfo>
+            <X509Data>
+                <X509Certificate>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</X509Certificate>
+            </X509Data>
+        </KeyInfo>
+    </Signature>
+</CFe>
